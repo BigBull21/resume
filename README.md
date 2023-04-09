@@ -1,5 +1,5 @@
 # 📋 Résumé + CV + Coverletter
-A repository containing the LaTeX source of Spencer Imbleau's résumé, curriculum vitae, and coverletter matter. Tested and deployed with GitHub Actions.
+A repository containing the LaTeX source of Aaron Rinehart's résumé, curriculum vitae, and coverletter matter. Tested and deployed with GitHub Actions.
 
 ---
 [![résumé last release](https://img.shields.io/github/release-date/simbleau/resume?logo=github&label=Last%20Release)](https://github.com/simbleau/resume/releases)
