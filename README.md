@@ -53,4 +53,4 @@ Deployment is automated by [GitHub Actions](https://github.com/bigbull21/resume/
   ```
 
 # 🔏 License
-This project is [MIT](./LICENSE) licensed. You are within your rights to fork my résumé and use it as your own, although you should probably change my name to yours!
+This project is [MIT](./LICENSE) licensed. You are within your rights to fork my résumé and use it as your own, although you should probably change my name to yours.
